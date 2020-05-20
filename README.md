@@ -7,17 +7,7 @@ Along with being able to block the harvesting of herbs you define, it also keeps
 
 Commands:
 
-harv --------------------------- Print this list
-
-harvreset ---------------------- Reset the ENTIRE system back to default without logging out and back in
-
-hblock [herb] ------------------ Add an herb to the block list to not harvest it
-
-hublock [herb] ----------------- Unblock a blocked herb to return to harvesting it
-
-hsblock ------------------------ Show the current block list.
-
-aharv -------------------------- Toggle the auto-harvesting off and on
+harv --------------------------- Print the list of commands.
 
 
 I do plan on expanding this to include Gathering and Extracting at some point.
